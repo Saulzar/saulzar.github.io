@@ -1,0 +1,3 @@
+[submodule "todomvc-perf-comparison"]
+	path = todomvc-perf-comparison
+	url = ./todomvc-perf-comparison/
